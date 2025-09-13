@@ -1,8 +1,8 @@
 # Awesome Agentic DevTools 🤖⚡
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-agentic-devtools.svg)](https://github.com/yourusername/awesome-agentic-devtools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-agentic-devtools.svg)](https://github.com/yourusername/awesome-agentic-devtools/network)
+[![GitHub stars](https://img.shields.io/github/stars/doshibadev/awesome-agentic-devtools.svg)](https://github.com/yourusername/awesome-agentic-devtools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/doshibadev/awesome-agentic-devtools.svg)](https://github.com/yourusername/awesome-agentic-devtools/network)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
