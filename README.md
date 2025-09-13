@@ -163,7 +163,7 @@ Create full-stack web applications from natural language descriptions.
 
 ### Enterprise/Team Plans
 - 🏢 **GitHub Copilot Business** - $19/month per user
-- 🏢 **Cursor Teams** - Custom pricing
+- 🏢 **Cursor Enterprise** - Custom pricing with advanced features
 - 🏢 **Codeium Enterprise** - Custom pricing
 
 ---
